@@ -62,6 +62,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -71,8 +73,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -93,9 +95,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -432,6 +437,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Mobile-Flappy-Bird-Version-12-Sprites_2: -8926574661836492666
+      Mobile-Flappy-Bird-Version-12-Sprites_4: -4503841976007414186
+      Mobile-Flappy-Bird-Version-12-Sprites_5: -4971047793252181728
+      Mobile-Flappy-Bird-Version-12-Sprites_3: 5972568576541492873
+      Mobile-Flappy-Bird-Version-12-Sprites_7: -5876970950183064991
+      Mobile-Flappy-Bird-Version-12-Sprites_10: -8312849859364333618
+      Mobile-Flappy-Bird-Version-12-Sprites_1: 3483673789686235780
+      Mobile-Flappy-Bird-Version-12-Sprites_12: -4202784051006848906
+      Mobile-Flappy-Bird-Version-12-Sprites_9: 3460727620931480033
+      Mobile-Flappy-Bird-Version-12-Sprites_6: -5205614624795295508
+      Mobile-Flappy-Bird-Version-12-Sprites_0: 6308499537775440538
+      Mobile-Flappy-Bird-Version-12-Sprites_11: 4253498562816165008
+      Mobile-Flappy-Bird-Version-12-Sprites_8: -6153999998260982939
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
